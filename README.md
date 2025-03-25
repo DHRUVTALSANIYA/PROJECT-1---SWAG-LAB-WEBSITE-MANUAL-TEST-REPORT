@@ -18,6 +18,7 @@ Contents
 Test Coverage
 
 1️⃣ Login Scenarios
+
 🔹 Successful Login – Valid credentials.
 
 🔹 Failed Login – Incorrect username/password.
