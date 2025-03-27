@@ -1,9 +1,11 @@
 # PROJECT-1---SWAG-LAB-WEBSITE-MANUAL-TEST-REPORT 
-Swag Labs - Manual Testing Report Creat In My QA - Manual tester Internship In Softcolon Technologies.
-Overview
-This repository contains a detailed manual testing report for the Swag Labs website, covering various user roles and login scenarios. The report includes test cases, test scenarios, execution steps, validation results, and bug tracking to ensure the login functionality works as expected.
+Swag Labs - Manual Testing Report
 
-Contents 
+(Swag Lab Website For Testing : https://www.saucedemo.com/ )
+
+📌 Created during my QA - Manual Tester Internship at Softcolon Technologies
+
+Contents
 
 ✅ Test Scenarios – Different login conditions tested.
 
@@ -41,12 +43,24 @@ Test Coverage
 
 Bug Highlights
 
-⚠️ Incorrect password handling issue – Login fails without proper error message.
+⚠️ Incorrect password handling issue – Login fails without a proper error message.
 
 ⚠️ Visual inconsistencies for problem user – UI elements not loading correctly.
 
 ⚠️ Performance issue for glitch user – Delayed response time in some cases.
 
+Files Included
+
+📌 Test Scenario – https://docs.google.com/spreadsheets/d/15B4sm1Ndw74LtqTGyTCs56KQH6jKHD2CYP7UIzwS2Lc/edit?usp=sharing
+
+📌 Test Case – https://docs.google.com/spreadsheets/d/14XuuuErJg-UxRHbJQiafLWD65QpPz4qP16eb1Qk1Rbk/edit?usp=sharing
+
+📌 Bug Report – https://docs.google.com/spreadsheets/d/1tlRZybHAAtK2JWDgHMvPBtFzVA8TTzIqoSA2lsoh87E/edit?usp=sharing
+
 Conclusion
 
-This test report helps identify functional, UI, and performance issues in the Swag Labs login process. Each test case includes detailed descriptions, execution steps, expected vs. actual results, and bug trac
+This test report helps identify functional, UI, and performance issues in the Swag Labs login process. Each test case includes detailed descriptions, execution steps, expected vs. actual results, and bug tracking to ensure smooth functionality.
+
+
+
+
